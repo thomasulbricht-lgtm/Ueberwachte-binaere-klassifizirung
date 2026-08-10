@@ -1,3 +1,6 @@
+**Einführung in die überwachte binäre Klassifizierung
+durch maschinelles Lernen**
+
 Diese Arbeit soll schrittweise in die überwachte binäre Klassifikation einführen.
 Zu Beginn werden die Vorteile des maschinellen Lernens für die Gesellschaft
 dargestellt. Nachfolgend wird erläutert, was maschinelles Lernen ist und in
